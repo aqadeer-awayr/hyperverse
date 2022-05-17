@@ -1,0 +1,40 @@
+<?php
+return [
+    'menu' => [
+        'sign-up' => "S'inscrire",
+        'home' => 'Accueil',
+        'services' => 'Prestations de service',
+        'dropdown' => 'Menu déroulant',
+        'login' => 'CONNEXION',
+        'logout' => 'SE DÉCONNECTER',
+        'language' => "Langue",
+        'profile' => "Mon Profil",
+    ],
+    'hero-header' => [
+        'capitalize' => "Capitalisez sur la prochaine méga-tendance",
+        'greater' => "c'est plus qu'internet",
+        'mobile' => "et les révolutions de la téléphonie mobile",
+        'combined' => "combinée!",
+        'hero-header-description' => "Découvrez comment vous pouvez réaliser les multiples avantages de rejoindre cette plateforme d'adhésion dynamique HyperCommunity, soutenue par l'écosystème numérique le plus complet au monde.",
+        'learn-more' => "Apprendre encore plus",
+    ],
+    'video-play-section' => [
+        'about' => 'Sur',
+        'road-map' => "Feuille de route",
+        'community' => "Communauté",
+        'faq' => "FAQ",
+        'due-deligence' => "Vérifications nécessaires",
+        'part-of-dynamic' => "Découvrez comment vous pouvez faire partie de la dynamique HyperCommunity et découvrez les avantages incroyables de l'adhésion",
+        'member-says' => "Que disent les membres actuels de la communauté",
+        'strongest-rocket' => "La fusée la plus puissante de la finance blockchain",
+    ],
+    'comment-section' => [
+        'what-we-do' => "Que disent les membres actuels de la communauté",
+        'strongest-rocket' => "La fusée la plus puissante de la finance blockchain",
+    ],
+    'browse-out' => "Parcourir les meilleurs cours",
+    'explore-our' => "Explorez notre meilleur cours pour obtenir plus d'avantages",
+    'language' => "Langue",
+    'what-people-are-viewing' => "Ce que les gens regardent",
+    'explore-top-courses' => "Explorez notre meilleur cours pour obtenir plus d'avantages",
+];
